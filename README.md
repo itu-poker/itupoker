@@ -1,1 +1,1 @@
-# itu-poker.github.io
+# itupoker
